@@ -1,21 +1,21 @@
 /*
- * 
+ *
  * Backpack - Skyscanner's Design System
- * 
+ *
  * Copyright 2018 Skyscanner Ltd
- * 
+ *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
  * You may obtain a copy of the License at
- * 
+ *
  *   http://www.apache.org/licenses/LICENSE-2.0
- * 
+ *
  * Unless required by applicable law or agreed to in writing, software
  * distributed under the License is distributed on an "AS IS" BASIS,
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
- * 
+ *
  */
 
 module.exports = {
@@ -98,7 +98,7 @@ module.exports = {
   colorYellow700: "rgb(225, 165, 0)",
   colorYellow800: "rgb(194, 142, 0)",
   colorYellow900: "rgb(156, 114, 0)",
-  fontFamily: "System",
+  fontFamily: "Gilroy",
   fontSizeBase: 16,
   fontSizeCaps: 10,
   fontSizeLg: 20,

@@ -1101,10 +1101,10 @@
       "name": "SHADOW_SM_OPACITY"
     },
     "SHADOW_SM_RADIUS": {
-      "value": 3,
+      "value": 8,
       "type": "size",
       "category": "box-shadows",
-      "originalValue": 3,
+      "originalValue": 8,
       "name": "SHADOW_SM_RADIUS"
     },
     "SHADOW_XL_COLOR": {

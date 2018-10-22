@@ -24,7 +24,7 @@
       "category": "box-shadows"
     },
     "SHADOW_SM_RADIUS": {
-      "value": 3,
+      "value": 8,
       "type": "size",
       "category": "box-shadows"
     },

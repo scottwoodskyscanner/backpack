@@ -43,7 +43,7 @@
       "value": 24
     },
     "BORDER_RADIUS_PILL": {
-      "value": 30
+      "value": 40
     },
     "BORDER_RADIUS_SM": {
       "value": 4
@@ -94,7 +94,7 @@
       "value": 36
     },
     "FONT_WEIGHT_BOLD": {
-      "value": "700"
+      "value": "bold"
     },
     "FONT_WEIGHT_NORMAL": {
       "value": "400"
@@ -353,7 +353,7 @@
     },
     "BORDER_RADIUS_PILL": {
       "type": "size",
-      "value": "30",
+      "value": "40",
       "category": "radii",
       "originalValue": "{!BORDER_RADIUS_PILL}",
       "name": "BORDER_RADIUS_PILL"
@@ -1255,10 +1255,10 @@
       "name": "TEXT_LG_FONT_SIZE"
     },
     "TEXT_LG_FONT_WEIGHT": {
-      "value": "400",
+      "value": "bold",
       "type": "string",
       "category": "font-weights",
-      "originalValue": "{!FONT_WEIGHT_NORMAL}",
+      "originalValue": "{!FONT_WEIGHT_BOLD}",
       "name": "TEXT_LG_FONT_WEIGHT"
     },
     "TEXT_LG_LETTER_SPACING": {
